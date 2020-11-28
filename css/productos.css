@@ -1,0 +1,73 @@
+/*@import url("normalize.css");*/
+
+body, html
+{
+	background: #EEE;
+	font-family: Helvetica, Arial;
+	font-size: 16px;
+	text-align: center;
+}
+
+
+#global {
+  height: 600px;
+  width: 600px;
+  border: 2px solid blue;
+  background: #E8E8E8;
+  overflow-y: scroll;
+  margin-left: 100px;
+}
+
+/*#mensajes {
+  height: auto;
+}*/
+
+.texto {
+  border: 1px solid #5B5B5B;
+  border-radius: 5px;     
+  padding:10px;
+  background:#fff;
+  width: 80px;
+
+}
+
+.texto1 {
+  border: 1px solid #5B5B5B;
+  border-radius: 5px;     
+  padding:10px;
+  background:#FF7F7F;
+   width: 400px;
+
+}
+
+.myBox {
+border: none;
+padding: 5px;
+font: 24px/36px sans-serif;
+width: 200px;
+height: 200px;
+overflow: scroll;
+}
+
+
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+width: 12px;
+height: 12px;
+}
+
+::-webkit-scrollbar-track {
+border: 1px solid DEEPSKYBLUE;
+border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+background: DEEPSKYBLUE;  
+border-radius: 10px;
+}
+
+/*::-webkit-scrollbar-thumb:hover {
+background: blue;  
+}
+*/

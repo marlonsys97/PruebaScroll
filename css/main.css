@@ -1,0 +1,266 @@
+@import url("normalize.css");
+
+body, html
+{
+  background: #EEE;
+  font-family: Vegur;
+  font-size: 18px;
+  text-align: center;+
+}
+
+#btnLimpiar{
+  
+}
+
+
+.container{
+  border-width:4px;
+  border-style:solid;
+  /*border-color:blue;*/
+  width:50%;
+}
+
+
+#grid {
+    width: 500px;
+    height: 400px;
+}
+
+[class^="Slick.Grid"],
+[class^="Slick.Grid"],
+[class^="Slick.Grid"] div {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+     box-sizing: content-box;
+}
+
+main {
+  color: blue;
+  /*border-width:4px;*/
+  border-style:solid;
+  /*border-color:blue;*/
+  margin: 0 auto;
+  max-width: 1450px;  // resolucion portatil
+  /*min-width: 768px;   // resolucion portatil*/
+  min-height: 100vh;
+
+  width:1400px;
+
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: 450px 490px 450px;
+  grid-template-rows: 100px
+                      410px
+                      80px;
+  grid-template-areas:
+  "my-header my-header my-header"
+  "my-nav my-section my-aside"
+  "my-nav my-footer my-aside"
+}
+
+
+
+#header {
+  grid-area: my-header;
+  /*background-color: SteelBlue ;*/
+}
+
+#products {
+  grid-area: my-nav;
+  background-color: cornflowerblue ;
+  height: 600px;
+  padding: 80px;
+  /*width: 600px;*/
+
+  /*border: 2px solid blue;*/
+  overflow-y: scroll;
+  /*margin-left: 100px;*/
+  border-radius: 20px;
+}
+
+#detalle {
+  grid-area: my-section;
+  background-color: LightSkyBlue;
+  border-radius: 20px;
+  
+
+  display: grid;
+  grid-gap: 25px;
+  grid-template-columns: 300px 168px;
+  grid-template-rows: 250px
+                      160px;
+  grid-template-areas:
+  "zona1 zona1"
+  "zona2 zona2"
+
+}
+
+#det1{
+  grid-area: zona1;
+  overflow-y: auto;
+}
+
+
+#det2{
+  grid-area: zona2;
+  background-color: Blue;
+  border-radius: 10px;
+
+  margin: .4em 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 330px 170px;
+  grid-template-rows: 15px
+                      35px
+                      5px
+                      35px
+                      10px
+                      35px;
+  grid-template-areas:
+  "yyyy yyyy"
+  "lab1 inp1"
+  "zzzz zzzz"
+  "lab2 inp2"
+  "xxxx xxxx "
+  "lab3 inp3"
+}
+
+#pie {
+  grid-area: my-footer;
+  background-color: LightSkyBlue;
+  /*border-radius: 10px;*/
+}
+
+#lab1{ grid-area: lab1; text-align: right; padding-right: 20px;}
+#lab2{ grid-area: lab2;text-align: right; padding-right: 20px;}
+#lab3{ grid-area: lab3;text-align: right; padding-right: 20px;font-size: 1.5em;}
+
+#subto{ grid-area: inp1;}
+#ipcon{ grid-area: inp2;}
+#total{ grid-area: inp3;}
+
+input[type='text'] { 
+  width:150px;
+  height: 25px;
+}
+
+
+#botones {
+  grid-area: my-aside;
+
+  background-color: LightSkyBlue;
+  border-radius: 10px;
+
+  display: grid;
+  grid-template-columns: 460px;
+  grid-template-rows: 260px
+  1fr;
+  grid-template-areas:
+  "zona1"  
+  "zona2"
+}
+
+#botones1{ 
+  grid-area: zona1;
+  /*border-bottom:  blue 5px solid;*/
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 10px;
+
+  /*padding: 20px 5px 5px 0px;*/
+}
+
+#botones2{ 
+  grid-area: zona2;
+}
+
+
+.btnCta[data-estado="99"] {
+  visibility: hidden; 
+/*  text-decoration:none;
+  height: 0px;
+  width: 0px;*/
+}
+
+
+
+.btnCta[data-estado="0"] {
+  text-decoration:none;
+  height: 50px;
+  width: 55px;
+  color:blue;
+  background-color:FloralWhite;
+  border-color: DeepSkyBlue;
+  border-width: 1px;
+  border-style: solid;
+  border-radius:10px;
+  
+
+}
+
+.btnCta[data-estado="1"]{
+  text-decoration:none;
+  height: 50px;
+  width: 55px;
+  color:white;
+  background-color:red;
+  border-color: salmon;
+  border-width: 2px;
+  border-style: solid;
+  border-radius:10px;
+ 
+}
+
+.totales[data-estado="0"] {
+ /*display: block;*/
+ /*width: 70px;*/
+ background-color: DEEPSKYBLUE;
+ border-bottom: blue 2px solid;
+ border-radius: 7px;
+ border-style: solid;
+ color:blue;
+
+}
+
+
+
+.mesa{
+  /*margin: 1px;*/
+}
+
+
+#tabla_detalle {
+ /*border-collapse: collapse,*/
+ margin-left: 17px;
+ padding-bottom="35px"
+
+}
+
+@media (min-width: 600px) and (max-width: 1000px) {
+  main {
+    grid-template-columns: 200px 1fr 200px;
+    grid-template-rows: 150px
+    1350px
+    1fr
+    280px;
+    grid-template-areas: 
+    "my-header my-header my-header"
+    "my-nav    my-nav    my-nav"
+    "my-aside my-section my-section"
+    "my-footer my-footer my-footer"
+  }
+}
+
+@media (max-width: 1000px;) {
+  main {
+    grid-template-columns: 200px 1fr 200px;
+    grid-template-rows: 150px
+    100 px
+    1fr
+    100px;
+    grid-template-areas:
+    "my-header my-header my-header"
+    "my-nav my-section my-aside"
+    "my-nav my-footer my-footer"
+  }
+}

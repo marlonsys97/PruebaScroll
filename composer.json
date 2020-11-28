@@ -1,0 +1,7 @@
+{
+    "name": "cabbera/probando-composer-sabado",
+    "require" : {
+        "kint-php/kint": "3.*",
+        "phpmailer/phpmailer": "5.*" 
+    }
+}

@@ -1,0 +1,993 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"$transaccion〔variable〕"
+			],
+			[
+				"dr",
+				"dropdown-divider"
+			],
+			[
+				"dro",
+				"dropdown-item"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"co",
+				"code\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"li",
+				"list-group-item"
+			],
+			[
+				"lis",
+				"list-group"
+			],
+			[
+				"re",
+				"responseText〔variable〕"
+			],
+			[
+				"arra",
+				"array〔keyword〕"
+			],
+			[
+				"tot",
+				"totales〔variable〕"
+			],
+			[
+				"es",
+				"estado"
+			],
+			[
+				"P",
+				"ProductsDataProvider"
+			],
+			[
+				"ini",
+				"init"
+			],
+			[
+				"vi",
+				"visibility\tproperty"
+			],
+			[
+				"str_s",
+				"str_split〔function〕"
+			],
+			[
+				"id",
+				"idM"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"array",
+				"$arrayD〔variable〕"
+			],
+			[
+				"js",
+				"$jsDetll〔variable〕"
+			],
+			[
+				"json_",
+				"json_decode〔function〕"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"datos",
+				"datosRecib〔variable〕"
+			],
+			[
+				"dat",
+				"dataset"
+			],
+			[
+				"btn",
+				"btnClick〔variable〕"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"aja",
+				"ajax\t$.ajax()"
+			],
+			[
+				"cl",
+				"click\t.click()"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"CU",
+				"CURRENT_TIMESTAMP"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"clo",
+				"cloneNode"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"cons",
+				"const〔keyword〕"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"bt",
+				"btnsCta"
+			],
+			[
+				"boto",
+				"botones〔variable〕"
+			],
+			[
+				"terc",
+				"tercr_id"
+			],
+			[
+				"ventM_",
+				"ventM_tercr"
+			],
+			[
+				"cu",
+				"CURRENT_TIMESTAMP"
+			],
+			[
+				"VENTS",
+				"ventsM"
+			],
+			[
+				"de",
+				"DEFAULT"
+			],
+			[
+				"DE",
+				"DEFAULT"
+			],
+			[
+				"int",
+				"INTEGER"
+			],
+			[
+				"tbo",
+				"tbody"
+			],
+			[
+				"me",
+				"mesa"
+			],
+			[
+				"ar",
+				"args.row"
+			],
+			[
+				"da",
+				"datosJson"
+			],
+			[
+				"on",
+				"onKeyDown"
+			],
+			[
+				"data",
+				"dataProvider"
+			],
+			[
+				"su",
+				"subscribe"
+			],
+			[
+				"activ",
+				"activeRow〔variable〕"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"x",
+				"x=0"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"bo",
+				"boton"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"grid",
+				"grid-area"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"w",
+				"width\t.width()"
+			],
+			[
+				"p",
+				"ProductsDataProvider.js"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"S",
+				"Storage"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"slick",
+				"slick.dataview.js"
+			],
+			[
+				"_dat",
+				"_data.length"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"edi",
+				"editor"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"sus",
+				"suspende"
+			],
+			[
+				"unico",
+				"$uniconteo〔variable〕"
+			],
+			[
+				"lista",
+				"listaConteo"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"pri",
+				"PRIMARY"
+			],
+			[
+				"numer",
+				"number_format〔function〕"
+			],
+			[
+				"v",
+				"VALUES"
+			],
+			[
+				"c",
+				"catgr_id"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"data-",
+				"data-icon"
+			],
+			[
+				"cone",
+				"$conexion〔variable〕"
+			],
+			[
+				"mysq",
+				"mysql_query〔function〕"
+			],
+			[
+				"con",
+				"$contrasena〔variable〕"
+			],
+			[
+				"ser",
+				"$servidor〔variable〕"
+			],
+			[
+				"mys",
+				"mysql_query〔function〕"
+			],
+			[
+				"ca",
+				"$campo〔variable〕"
+			],
+			[
+				"my",
+				"mysqli_connect"
+			],
+			[
+				"inclu",
+				"include〔function〕"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"requ",
+				"require〔function〕"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"wth",
+				"width"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"per",
+				"personas_modelo.php"
+			],
+			[
+				"uns",
+				"unset〔function〕"
+			],
+			[
+				"ma",
+				"$matrizPoblaciones〔variable〕"
+			],
+			[
+				"m",
+				"$matrizPoblaciones〔variable〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"po",
+				"$poblacion〔variable〕"
+			],
+			[
+				"sql",
+				"$sql_total〔variable〕"
+			],
+			[
+				"dir",
+				"$direccion〔variable〕"
+			],
+			[
+				"ape",
+				"$apellido〔variable〕"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"I",
+				"$Id〔variable〕"
+			],
+			[
+				"ba",
+				"$base〔variable〕"
+			],
+			[
+				"s",
+				"$sql〔variable〕"
+			],
+			[
+				"b",
+				"$base〔variable〕"
+			],
+			[
+				"Ape",
+				"Apellido"
+			],
+			[
+				"Nom",
+				"Nombre"
+			],
+			[
+				"endf",
+				"endforeach〔keyword〕"
+			],
+			[
+				"pass",
+				"$pass_cifrado〔variable〕"
+			],
+			[
+				"PAS",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"include",
+				"include〔function〕"
+			],
+			[
+				"au",
+				"$autenticado〔variable〕"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"_",
+				"$_COOKIE〔variable〕"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"sess",
+				"session_start〔function〕"
+			],
+			[
+				"num",
+				"$num_reg〔variable〕"
+			],
+			[
+				"ad",
+				"addslashes"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"xde",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"prv open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				" prv open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 248.0,
+		"history":
+		[
+			"php testdebug.php",
+			"export XDEBUG_CONFIG=”idekey=sublime.xdebug”",
+			"export XDEBUG_CONFIG=\"idekey=sublime.xdebug\"",
+			"git clone https://github.com/martomo/SublimeTextXdebug.git \" Xdebug Client \" ",
+			"\\FB::",
+			"clear",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/PruebaScroll",
+		"/C/xampp/htdocs/PruebaScroll/js"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/PruebaScroll/index.php",
+		"/C/xampp/htdocs/PruebaScroll/controlador_vtas.php",
+		"/C/xampp/htdocs/PruebaScroll/vista_vtas.php",
+		"/C/xampp/htdocs/PruebaScroll/modelo_vtas.php",
+		"/C/xampp/htdocs/PruebaScroll/images/bullet_blue.png",
+		"/C/xampp/htdocs/PruebaScroll/testdebug.sublime-project",
+		"/C/xampp/htdocs/PruebaScroll/testdebug.php",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/Seti.sublime-theme",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/SublimeTextXdebug-master/Xdebug.sublime-settings",
+		"/C/Users/marlonsys/Documents/Donde Necesito Apertura.txt",
+		"/C/Users/marlonsys/Documents/Mi Proceso.txt",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/SublimeTextXdebug-master/xdebug/config.py",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Installed Packages/Xdebug Client.sublime-package",
+		"/C/xampp/htdocs/PruebaScroll/testDebug_proy.sublime-project",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/PruebaScroll/js/despachador_vtas.js",
+		"/C/xampp/htdocs/PruebaScroll/lib/ProductsDataProvider.js",
+		"/C/xampp/htdocs/cabbera/js/despachador.js",
+		"/C/xampp/htdocs/cabbera/vistas.php",
+		"/C/xampp/htdocs/Mi primer Bootstrap/bootstrap-4.3.1-dist/index_Tarjeta.html",
+		"/C/xampp/htdocs/Mi primer Bootstrap/bootstrap-4.3.1-dist/index_botones.html",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/Mi primer Bootstrap/bootstrap-4.0.0-alpha.6-dist/index.html",
+		"/C/xampp/htdocs/Mi primer Bootstrap/bootstrap-4.0.0-alpha.6-dist/index_botones.html",
+		"/C/xampp/htdocs/PruebaScroll/css/main.css",
+		"/C/xampp/htdocs/Mi primer Bootstrap/bootstrap-4.0.0-alpha.6-dist/index_MediaScreen.html",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/xampp/htdocs/PruebaScroll/cabbera.sql",
+		"/C/xampp/htdocs/PruebaScroll/slick.grid.js",
+		"/C/xampp/htdocs/PruebaScroll/lib/grideditors.js",
+		"/C/xampp/htdocs/PruebaScroll/slick.core.js",
+		"/C/xampp/htdocs/PruebaScroll/js/ventas.js",
+		"/C/xampp/htdocs/PruebaScroll/slick.grid.css",
+		"/C/xampp/htdocs/PruebaScroll/composer.json",
+		"/C/xampp/htdocs/lib/kint-master/src/Kint.php",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/SublimeTextXdebug-master/main.py",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/SublimeTextXdebug-master/LICENSE",
+		"/C/xampp/htdocs/json/proy.json.sublime-project",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/Rails.sublime-package",
+		"/C/xampp/htdocs/json/index.php",
+		"/C/xampp/htdocs/zengdata/zendgdata.sublime-project",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/xampp/htdocs/xdebug_proy.sublime-project",
+		"/C/xampp/htdocs/zendgdata.sublime-project",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/json/composer.json",
+		"/C/xampp/php/pear/adodb/drivers/adodb-fbsql.inc.php",
+		"/C/xampp/php/news.txt",
+		"/C/xampp/htdocs/pr2_ajax/DB_ejemplo.txt",
+		"/C/xampp/htdocs/pr2_ajax/personas.php",
+		"/C/xampp/htdocs/cabbera/modelo.php",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/xampp/htdocs/PruebaScroll/css/slick-default-theme.css",
+		"/C/xampp/htdocs/PruebaScroll/js/CargarVentas.js",
+		"/C/xampp/htdocs/PruebaScroll/slick-default-theme.css",
+		"/C/xampp/htdocs/PruebaScroll/css/pildorasgrid.css",
+		"/C/xampp/htdocs/PruebaScroll/css/productos.css",
+		"/C/xampp/htdocs/PruebaScroll/slick.editors.js",
+		"/C/xampp/htdocs/PruebaScroll/lib/accounting.js",
+		"/C/xampp/htdocs/PruebaScroll/lib/productdatasource.js",
+		"/C/xampp/htdocs/PruebaScroll/lib/slick.editors.js",
+		"/C/xampp/htdocs/PruebaScroll/css/style.css",
+		"/C/xampp/htdocs/PruebaScroll/js/grid.js",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/lib/slick.grid.js",
+		"/C/xampp/htdocs/PruebaScroll/lib/gridformatters.js",
+		"/C/xampp/htdocs/PruebaScroll/index.html",
+		"/C/wamp/www/MVC/Index.php",
+		"/C/wamp/www/Curso PHP/Alcance_Variables.php",
+		"/C/wamp/www/Paginacion/index.php",
+		"/C/wamp/www/Imagenes_Servidor/index.php",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/lib/ProductsDataProvider.js",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/css/pildorasgrid.css",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/lib/gridformatters.js",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/lib/grideditors.js",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/examples/pr_7_DataView.html",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/examples/examples.css",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/slick.grid.css",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/slick-default-theme.css",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/css/slick-default-theme.css",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/examples/slick-default-theme.css",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/lib/qunit.css",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/lib/productdatasource.js",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/examples/pr_5_CargaConCache.html",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/lib/slick.editors.js",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/examples/pr_4_CargaCeldaAsinc.html",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/examples/pr_3_EdicionGrid.html",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/slick.core.js",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/lib/firebugx.js",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/slick.editors.js",
+		"/C/Program Files/Sublime Text 3/Packages/Theme - Default.sublime-package",
+		"/C/Users/marlonsys/Downloads/Seti.sublime-theme",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/images/arrow_right_peppermint.png",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/images/bullet_blue.png",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/images/collapse.gif",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/examples/Pr_2_Formt_Colmns.html",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/lib/slick.formatters.js",
+		"/C/xampp/htdocs/SlickGrid-2.1.0/examples/example3-editing.html",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/marlonsys/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/xampp/htdocs/cabbera/controlador.php",
+		"/C/xampp/htdocs/cabbera/css/productos.css",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/prueba1.html",
+		"/C/xampp/htdocs/PruebaGrid/index.html",
+		"/C/xampp/htdocs/PruebaGrid/index.php",
+		"/C/xampp/htdocs/BOOTSTRAP/index.html",
+		"/C/xampp/htdocs/cabbera/cabbera.sql",
+		"/C/xampp/htdocs/cabbera/css/normalize.css",
+		"/C/xampp/htdocs/cabbera/funciones_varias.js",
+		"/C/xampp/htdocs/appJQueryMobile/index.php",
+		"/C/xampp/htdocs/cabbera/css/super-heroes.css",
+		"/C/xampp/htdocs/cabbera/config.php",
+		"/C/xampp/htdocs/cabbera/conexion.php",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/super_heroes.sql",
+		"/C/xampp/htdocs/curso-poo/01MySQL/mexflix_schema.sql",
+		"/C/xampp/htdocs/curso-poo/01MySQL/mexflix_queries.sql",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/index.php",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/js/despachador.js",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/controlador.php",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/vistas.php",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/modelo.php",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/conexion.php",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/super-heroes.txt",
+		"/C/xampp/htdocs/curso-web/06AplicacionCRUD/css/super-heroes.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"crearBotonesVenta",
+			"ejecutarAJAX(datos);",
+			"transaccion",
+			"crearBotonesVenta",
+			"datosJson",
+			"Jugadores",
+			"datosJson",
+			"crearGrid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "testdebug.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"HTML5\\EstructuraCuerpo.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"13":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"32":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"33":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
